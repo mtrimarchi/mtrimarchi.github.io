@@ -12,7 +12,7 @@ Committed, reliable and adaptable System Administrator with extensive Virtualiza
 ## Key technology skills
 - **Virtualization** : VMware, Hyper-V, Azure, Proxmox
 - **Operating Systems** : Windows Server 2003 to 2016, Linux (Debian based)
-- **Networking** : Cisco, DryTek, MikroTik (certified MTCNA & MTCRE), pfSense, Ubiquiti
+- **Networking** : Cisco, DryTek, MikroTik (certified MTCNA / MTCRE / MTCTCE), pfSense, Ubiquiti
 
 ... and so on ...
 
