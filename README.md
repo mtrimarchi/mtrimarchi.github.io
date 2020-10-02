@@ -10,8 +10,8 @@ and available on [my profile](https://github.com/mtrimarchi/mtrimarchi.github.io
 Committed, reliable and adaptable System Administrator with extensive Virtualization/Cloud, Windows, Linux and Networking experience. Quick to assimilate new ideas, concepts and practices with excellent communication and interpersonal skills. Excellent timekeeper with experience managing IT implementations from pre-sales through milestone deliveries and completion.
 
 ## Key technology skills
-- **Virtualization** : VMware, Hyper-V, Azure, Proxmox
-- **Operating Systems** : Windows Server 2003 to 2016, Linux (Debian based)
+- **Virtualization** : AWS, VMware, Hyper-V, Azure, Proxmox
+- **Operating Systems** : Windows Server 2003 to 2019, Linux (Debian based)
 - **Networking** : MikroTik (certified MTCNA / MTCRE / MTCTCE / MTCSE / MTCINE), pfSense, Ubiquiti, Cisco, DryTek
 
 ... and so on ...
